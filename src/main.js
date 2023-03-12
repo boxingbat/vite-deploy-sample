@@ -6,7 +6,9 @@ import VueAxios from 'vue-axios'
 import App from './App.vue'
 import router from './router'
 
-import './assets/all.scss'
+import './assets/stylesheets/all.scss'
+// aos
+import 'aos/dist/aos.css'
 
 const app = createApp(App)
 

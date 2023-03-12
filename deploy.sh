@@ -24,6 +24,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:boxingbat/boxingbat.github.io.git master
 
 # 部署到 https://boxingbat.github.io/vite-deploy-sample
-git push -f git@github.com:boxingbat/vite-deploy-sample.git master:gh-pages
+git push -f git@github.com:boxingbat/vite-deploy-sample.git main:gh-pages
 
 cd -
